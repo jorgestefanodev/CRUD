@@ -29,3 +29,4 @@ Como usuar o app:
 - Crie um novo usuario
 - Agora so fazer o login e testar as funcionalidades do CRUD
 
+obs.: Na pasta imagens poderá ver prints das telas do app
